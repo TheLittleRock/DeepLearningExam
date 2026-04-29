@@ -1,0 +1,15 @@
+{
+  "cpu": {
+    "total_time_seconds": 3.784127950668335,
+    "throughput_samples_per_sec": 84.56373679000022,
+    "latency_ms_per_sample": 11.825399845838547,
+    "samples": 320
+  },
+  "cuda": {
+    "total_time_seconds": 0.23103094100952148,
+    "throughput_samples_per_sec": 1385.0958603281274,
+    "latency_ms_per_sample": 0.7219716906547546,
+    "samples": 320
+  },
+  "gpu_speedup_vs_cpu": 16.379312373195848
+}

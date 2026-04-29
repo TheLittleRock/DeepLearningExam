@@ -1,0 +1,13 @@
+{
+  "model_name": "bert_pruned_6L",
+  "parameters_total": 66958084,
+  "parameters_trainable": 66958084,
+  "model_size_mb": 255.43263244628906,
+  "total_time_seconds": 80.1233880519867,
+  "throughput_samples_per_sec": 299.5380073596989,
+  "latency_ms_per_sample": 3.3384745021661124,
+  "accuracy": 0.9443333333333334,
+  "precision": 0.94462328644239,
+  "recall": 0.9443333333333334,
+  "f1": 0.9443356527489987
+}

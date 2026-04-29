@@ -1,0 +1,13 @@
+{
+  "model_name": "bert_scratch",
+  "parameters_total": 109485316,
+  "parameters_trainable": 109485316,
+  "model_size_mb": 417.66114807128906,
+  "total_time_seconds": 287.6729202270508,
+  "throughput_samples_per_sec": 83.42808207688644,
+  "latency_ms_per_sample": 11.986371676127115,
+  "accuracy": 0.25,
+  "precision": 0.0625,
+  "recall": 0.25,
+  "f1": 0.1
+}

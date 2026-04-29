@@ -1,0 +1,13 @@
+{
+  "model_name": "bert_pretrained",
+  "parameters_total": 109485316,
+  "parameters_trainable": 109485316,
+  "model_size_mb": 417.66114807128906,
+  "total_time_seconds": 295.9325382709503,
+  "throughput_samples_per_sec": 81.09956458395949,
+  "latency_ms_per_sample": 12.330522427956263,
+  "accuracy": 0.9481666666666667,
+  "precision": 0.9483018382365521,
+  "recall": 0.9481666666666667,
+  "f1": 0.9481756535097676
+}
